@@ -8,7 +8,7 @@ This is a simple web application that converts grams to kilograms. The app is bu
 
 - [Description](#description)
 - [Process Followed](#process-followed)- 
--
+
 
 ## Description
 
@@ -20,6 +20,7 @@ The Gram to Kilogram Converter web app allows users to input a value in grams an
    ```bash
    sudo apt-get update
    sudo apt-get install -y debootstrap
+```
 
 
 ### Step 2: Create the Minimal Ubuntu Filesystem
@@ -30,21 +31,24 @@ The Gram to Kilogram Converter web app allows users to input a value in grams an
 ### Step 3: Verify the directory creation:
   ```bash
   ls ubuntu-base
-	
-
+```
 
 ### Step 4: Create a tarball of the minimal Ubuntu filesystem:
   ```bash
   sudo tar -C ubuntu-base -cvf ubuntu-base.tar .
   gzip ubuntu-base.tar
+```
   
 ### Step 5: Create HTML File, Dockerfile, docker compose file
  ```bash
-    Refer to index.html,Dockerfile and docker-compose.yml	
+    Refer to index.html,Dockerfile and docker-compose.yml
+```
+	
 ### Step 6: Build and Run the Docker Container
   ```bash
   docker-compose up --build
   Open your web browser and navigate to http://localhost.
+```
   
   
  ### Author
