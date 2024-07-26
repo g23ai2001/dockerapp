@@ -27,6 +27,7 @@ The Gram to Kilogram Converter web app allows users to input a value in grams an
   ```bash
   mkdir -p ubuntu-base
   sudo debootstrap --variant=minbase jammy ubuntu-base/ http://archive.ubuntu.com/ubuntu/
+```
 
 ### Step 3: Verify the directory creation:
   ```bash
