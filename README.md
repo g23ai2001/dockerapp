@@ -2,7 +2,7 @@
 
 # Gram to Kilogram Converter Web App
 
-This is a simple web application that converts grams to kilograms. The app is built using basic HTML and JavaScript and is served using an Apache web server within a Docker container. The Docker image is created from scratch using a minimal Ubuntu base image.
+This is a simple web application that converts grams to kilograms. The app is built using basic HTML and JavaScript and is served using an Apache web server within a Docker container. The Docker image is created from scratch then ubuntu filemanagr have been installed on top of it using debootstrap. 
 
 ## Table of Contents
 
