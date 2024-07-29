@@ -8,6 +8,7 @@ This is a simple web application that converts grams to kilograms. The app is bu
 
 - [Description](#description)
 - [Process Followed](#process-followed)
+- [Steps to Download & Run the Project](#Steps to Download & Run the Project)
 
 
 ## Description
