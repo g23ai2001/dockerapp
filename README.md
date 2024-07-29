@@ -53,7 +53,7 @@ The Gram to Kilogram Converter web app allows users to input a value in grams an
 
 # Steps to Download & Run the Project
 ```bash
-  1. Download zip file of Project. Recommended Host System is Ubuntu. Docker must be installed in Host OS
+  1. Download zip file from Master Branch of Repository. Recommended Host System is Ubuntu. Docker must be installed in Host OS
   2. Unip the project.
   3. Now change the dir to dockerapp-master.
   4. Open Terminal and run docker-compose up --build (use sudo if facing any permission issue).
