@@ -8,7 +8,7 @@ This is a simple web application that converts grams to kilograms. The app is bu
 
 - [Description](#description)
 - [Process Followed](#process-followed)
-- [Steps to Download & Run the Project](#Steps to Download & Run the Project)
+- [Steps to Download & Run the Project](#steps-to-download-&-run-the-project)
 
 
 ## Description
@@ -52,7 +52,7 @@ The Gram to Kilogram Converter web app allows users to input a value in grams an
   Open your web browser and navigate to http://localhost.
 ```
 
-# Steps to Download & Run the Project
+## Steps to Download & Run the Project
 ```bash
   1. Download zip file from Master Branch of Repository. Recommended Host System is Ubuntu. Docker must be installed in Host OS
   2. Unip the project.
